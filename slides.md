@@ -1,6 +1,6 @@
 ---
 theme: apple-basic
-title: Alpha is Now Powered by AI
+title: Alpha is Now 
 info: |
   ## Alpha.isnow.ai Pitch Deck
   Vision, product pillars, and roadmap for the AI-driven trading platform.
@@ -11,6 +11,7 @@ mdc: true
 colorSchema: dark
 layout: intro-image-right
 image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71'
+favicon: "https://strategy-reports.alpha.isnow.ai/favicon.png"
 ---
 # Alpha is Now 
 
@@ -50,11 +51,12 @@ image: 'https://images.pexels.com/photos/7567429/pexels-photo-7567429.jpeg'
 ---
 # Problem
 
-- <div v-click>Retail investors face significant challenges in navigating international financial markets due to the lack of localized tutorials, comprehensive strategy frameworks, and native‑language trading resources.</div>
-  
-- <div v-click>Traders lack access to systematic trading benefits—missing out on data-driven discipline and backtested confidence in their investment decisions.</div>
+- <div v-click>Retail traders lack accessible, educational gateways into systematic trading and backtested strategies.</div>
 
-- <div v-click>Unlike platforms that assume quant expertise, <a href="https://alpha.isnow.ai" target="_blank">Alpha is Now</a> builds trust through academic strategies and transparent backtests as educational entry points.</div>
+- <div v-click>Investors struggle to extract actionable insights from fragmented market intelligence, missing critical signals hidden in financial disclosures.</div>
+
+- <div v-click>Users face difficulty integrating diverse strategy signals and analytics into a unified, personalized interface for confident decision-making.</div>
+
 
 <!--
 Explain each pain point:
@@ -70,20 +72,17 @@ image: 'https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg'
 # Market Opportunity
 
 <div v-click>
-- The global algorithmic trading market is projected to exceed $30B by 2028, driven by the rise of data access, retail participation, and AI-assisted strategy tools.
+- The global algorithmic trading market, projected to surpass $30B by 2028, continues to expand rapidly, driven by increased retail investor engagement and AI-driven analytics.
 </div>
 
 <div v-click>
-- Despite this growth, most platforms remain fragmented or overly technical—leaving a gap for accessible, educational, end-to-end solutions.
+- Current offerings remain fragmented and overly complex, creating a significant gap for intuitive, educational platforms that seamlessly connect market insights to actionable strategies.
 </div>
 
 <div v-click>
-- <a href="https://alpha.isnow.ai" target="_blank">Alpha is Now</a> strategically targets Chinese-speaking markets first, while built from day one for global scalability.
+- <a href="https://alpha.isnow.ai" target="_blank">Alpha is Now</a> leverages this opportunity with a globally scalable architecture, strategically positioned to validate, refine, and accelerate growth across international markets.
 </div>
 
-<div v-click>
-- This focused entry enables us to validate, refine, and expand internationally with proven traction and technical maturity.
-</div>
 
 <!--
 Highlight the size and growth of the algorithmic trading market.
@@ -102,7 +101,7 @@ layout: default
 
 - **Dashboard**: A personalized command center unifying strategy signals, alerts, and performance tracking in one intuitive interface.
 
-These pillars support a global platform with initial focus on Chinese markets, leveraging regional channels while building international infrastructure.
+These pillars support a global platform with initial focus on local markets and social media channels, leveraging regional channels while building international infrastructure.
 
 <!--
 Introduce the three solution pillars (Trading Strategy, Marketing Insights, Dashboard).
